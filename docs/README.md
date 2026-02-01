@@ -58,3 +58,26 @@ and **ETL workflows** that require accuracy, performance, and repeatability.
 EXEC dbo.usp_Process_USA_Master_Emails;
 
 
+---
+
+## 👤 Author
+
+**Amit Kumar**  
+Data Automation & SQL Engineering
+https://www.linkedin.com/in/amit-kumar-5a5695212/
+
+---
+
+## ⚠️ Project Ownership & Disclaimer
+
+This repository is created and maintained by the author for **learning,
+demonstration, and internal automation reference purposes only**.
+
+All scripts, SQL logic, and documentation are **generic in nature** and do not
+contain any proprietary, confidential, or production data.
+
+If used in a production environment, it is the responsibility of the user or
+organization to review, test, and approve the code according to their internal
+policies and security standards.
+
+
